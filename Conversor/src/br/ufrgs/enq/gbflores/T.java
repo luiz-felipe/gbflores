@@ -24,7 +24,7 @@ import org.jfree.data.xy.XYSeriesCollection;
 
 public class T {
 
-	static final String COMMENT = "#";
+	static final String COMMENT = "#";// teste fork
 	public File fileIn;
 	public File fileOut;
 	JFrame frame  = new JFrame();
