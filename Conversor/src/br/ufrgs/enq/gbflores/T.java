@@ -45,7 +45,7 @@ public class T {
 			cur = cur.replace('x', ' ');
 			cur = cur.replace('X', ' ');
 			cur = cur.trim();
-			String teste[] = cur.split(" "); // teste LF
+			String teste[] = cur.split(" "); // teste LF 2
 			for (String string : teste) {
 				if (!string.isEmpty()){
 					monitoringPoints++;
