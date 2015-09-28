@@ -74,7 +74,7 @@ public class Tau {
 		double tau4[] = new double[monitoringPoints];
 		double tau5[] = new double[monitoringPoints];
 		double tau6[] = new double[monitoringPoints];
-		int i = 0;
+		int i = 0;// teste fork
 		while (input.hasNext()){
 			if (i==0)
 			time = Double.parseDouble(cur);
