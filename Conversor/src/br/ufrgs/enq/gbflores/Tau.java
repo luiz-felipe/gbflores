@@ -80,7 +80,7 @@ public class Tau {
 			time = Double.parseDouble(cur);
 			else
 			time = input.nextDouble();
-			
+			// teste fork 2
 			for (int j = 0; j < tau1.length; j++) {
 				tau1[j] = Double.parseDouble(input.next().replace("(", ""));
 				tau2[j] = Double.parseDouble(input.next());

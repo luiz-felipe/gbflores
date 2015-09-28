@@ -26,7 +26,7 @@ public class T {
 
 	static final String COMMENT = "#";// teste fork
 	public File fileIn;
-	public File fileOut;
+	public File fileOut;// teste fork2
 	JFrame frame  = new JFrame();
 	JTabbedPane tabbedPane = new JTabbedPane();
 
