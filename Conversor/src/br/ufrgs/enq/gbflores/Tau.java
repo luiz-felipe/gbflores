@@ -23,7 +23,7 @@ import org.jfree.data.xy.XYSeriesCollection;
 
 
 public class Tau {
-	static final String COMMENT = "#"; // comment
+	static final String COMMENT = "#"; // comment 3
 	public File fileIn;
 	public File fileOut;
 	JFrame frame  = new JFrame();
