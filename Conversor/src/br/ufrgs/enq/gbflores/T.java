@@ -32,7 +32,7 @@ public class T {
 
 	public T(String filename, int compressao) throws IOException {
 		Scanner input0 = new Scanner(new File(filename));
-		Scanner input = new Scanner(new File(filename));
+		Scanner input = new Scanner(new File(filename)); // other test
 		input.useLocale(Locale.US);
 		fileIn = new File(filename);
 		fileOut = new File(filename+".txt");
